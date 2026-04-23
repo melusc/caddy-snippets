@@ -4,7 +4,6 @@
 		-Via
 
 		Referrer-Policy "strict-origin-when-cross-origin"
-		X-Frame-Options "SAMEORIGIN"
 		X-Content-Type-Options "nosniff"
 		X-XSS-Protection "0"
 		Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
