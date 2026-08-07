@@ -1,4 +1,6 @@
 (security-headers) {
+	request_header -Forwarded
+
 	header {
 		-Server
 		-Via
