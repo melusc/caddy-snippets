@@ -11,7 +11,7 @@
 		Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
 		Cross-Origin-Opener-Policy "same-origin"
 		Cross-Origin-Embedder-Policy "require-corp"
-		Cross-Origin-Resource-Policy "same-site"
+		?Cross-Origin-Resource-Policy "same-site"
 		?Access-Control-Allow-Origin "https://{http.request.host}"
 		Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()"
 		Origin-Agent-Cluster "?1"
